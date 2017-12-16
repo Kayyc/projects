@@ -13,13 +13,6 @@ public class VigenerCipher {
 	final private String abeceda = "ABCČDEFGHIJKLMNOPRSŠTUVZŽ";
 	final private String stevila = "0123456789";
 
-	
-	public String getMatrix() {
-		return matrix;
-	}
-	public void setMatrix(String matrix) {
-		this.matrix = matrix;
-	}
 	public String getFiletext() {
 		return filetext;
 	}
